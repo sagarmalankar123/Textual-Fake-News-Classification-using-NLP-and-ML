@@ -13,3 +13,7 @@ For example, when there's breaking news, people often share updates without conf
 
 But because social media can spread fake news so easily, we need ways to stop it. We can use systems that collect and analyze what users think to reduce the spread of fake news. These systems can warn users when information might be false or keep track of what people are saying to see if the truth comes out over time.
 ______
+# Program Interface 
+![image](https://github.com/sagarmalankar123/Textual-Fake-News-Classification-using-NLP-and-ML/assets/133779208/5910f5ae-369a-4980-8db5-05d2a543e931)
+|
+
